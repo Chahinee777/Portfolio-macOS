@@ -205,11 +205,11 @@ const gallery = [
     img: "/images/wallpaperflare.com_wallpaper (2).jpg",
   },
   {
-    id: 16,
+    id: 2,
     img: "/images/gal1.jpg",
   },
   {
-    id: 17,
+    id: 3,
     img: "/images/gal2.jpg",
   }
 ];
